@@ -1,5 +1,3 @@
-## Conditions d'utilisation du Bot Fox'y
-
 ### 1. Respect des Conditions d'utilisation de Discord (ToS)
 > Nous nous engageons à ce que le bot respecte les [Conditions d'utilisation de Discord](https://discord.com/terms). Tout serveur ne respectant pas ces conditions pourra se voir expulsé de l'utilisation de Fox'y.
 
