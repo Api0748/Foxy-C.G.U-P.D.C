@@ -1,5 +1,3 @@
-# ![](https://cdn.discordapp.com/emojis/1037295190978871336.webp?size=48&quality=lossless)〃Foxy | Politique De Confidentialité.
-
  ## Accès aux données.
 > L'accès aux données n'est autorisé qu'aux développeurs du Bot, et uniquement dans le cadre requis pour le développement, les tests et la mise en œuvre des fonctionnalités de Bot. 
 > Les données ne sont ni vendues, fournies ni partagées avec des tiers, sauf si la loi ou un accord sur les conditions d'utilisation l'exige.
