@@ -23,7 +23,7 @@
 ### 8. Support et Informations Complémentaires
 > Pour obtenir plus d'informations ou poser des questions, veuillez rejoindre [le serveur de support officiel de Fox'y](https://discord.gg/C9CCc2VpZK). Pour inviter Fox'y sur un serveur, [cliquez ici](https://discord.com/oauth2/authorize?client_id=1035925300544016535&scope=bot+applications.commands&permissions=2113400319).
 
-### 9. Propriétaire
-> Revolt
+### 9. Propriétaires
+> Revolt & Api Space
 
 *Dernière modification le 16/08/2024*
