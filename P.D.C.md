@@ -1,34 +1,28 @@
- ## Accès aux données.
-> L'accès aux données n'est autorisé qu'aux développeurs du Bot, et uniquement dans le cadre requis pour le développement, les tests et la mise en œuvre des fonctionnalités de Bot. 
-> Les données ne sont ni vendues, fournies ni partagées avec des tiers, sauf si la loi ou un accord sur les conditions d'utilisation l'exige.
+## Accès aux Données
+> L'accès aux données est strictement réservé aux développeurs du bot et se limite uniquement aux besoins liés au développement, aux tests et à l'implémentation des fonctionnalités du bot. Les données ne seront ni vendues, ni fournies, ni partagées avec des tiers, sauf si la loi ou les Conditions d'utilisation l'exigent.
 
-## Stockage des données.
-> Les données sont stockées dans une base de données sécurisée contre l’accès public.
-> L'accès aux données n'est autorisé qu'aux développeurs du Bot.
+## Stockage des Données
+> Les données sont stockées dans une base de données sécurisée, inaccessible au public. 
+> - Afin de minimiser la collecte de données tout en maintenant les fonctionnalités du bot, les données temporaires, telles que celles des canaux temporaires et des messages étoilés (*starboard*), sont conservées uniquement en mémoire vive. Elles sont automatiquement supprimées lorsque le bot est arrêté. Ce choix vise à réduire l'empreinte environnementale et à éviter la conservation de données inutiles à long terme.
 
-> Dans le cadre de collecter le moins de donnée possible, mais de garder un bot fonctionnel, les canaux temporaires ainsi que les messages étoilés *(starboard)*, elles sont seulement stocké dans la mémoire vive et a chaque extinction du bot elles sont supprimer. Qui dit mémoire volatile dit ne fonctionne plus après. Cela est dur en effet, mais nous voulons vraiment garder un minimum de données afin de préserver l'environnement et d'éviter de garder des données inutiles pendant cinquante millions d'années.
+## Droits des Utilisateurs
+> Vous avez les droits suivants concernant vos données :
+> - **Accès aux Données** : Vous pouvez demander à consulter les données relatives à votre compte Discord.
+> - **Suppression des Données** : Vous pouvez demander la suppression de vos données.
+> - Pour soumettre une demande ou obtenir des informations supplémentaires, veuillez contacter le support via [`le serveur Support Officiel de Fox'y`](https://discord.gg/Bwrg8WxADK).
 
-## Droits de l’utilisateur.
-> À tout moment, vous avez le droit de demander à consulter les Données relatives à votre compte Discord.
-> Vous avez le droit de demander la suppression des vos données.
-> - Vous pouvez soumettre une demande via le sopport [`de Fox'y`](https://discord.gg/Bwrg8WxADK).
+## Respect des Conditions d'utilisation de Discord (ToS)
+> Nous nous engageons à respecter les [Conditions d'utilisation de Discord](https://discord.com/terms). Tout serveur qui ne respecte pas ces conditions pourra être expulsé de l'utilisation de Fox'y.
 
-## Respect des Conditions d’utilisation de Discord (ToS)
-> Nous nous engageons à ce que le bot respecte les [`ToS de discord`](https://discord.com/terms).
-> Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux être mis en œuvre.
+## Conformité Légale
+> Dès la première utilisation du bot, vous reconnaissez que vos données personnelles peuvent être divulguées aux autorités publiques en réponse à une demande légale ou judiciaire.
 
-## La justice.
-> À partir de la première utilisation du bot, l'utilisateur est conscient que des données personnelles peuvent être divulguée aux autorités publiques suite à une demande de la justice.
+## Plus d'Informations et Questions
+> Pour obtenir des informations supplémentaires ou poser des questions, rejoignez [le serveur Support Officiel de Fox'y](https://discord.gg/C9CCc2VpZK). 
+> Pour inviter Fox'y sur votre serveur, [cliquez ici](https://discord.com/oauth2/authorize?client_id=1035925300544016535&scope=bot+applications.commands&permissions=2113400319).
+> *Veuillez noter que ces conditions peuvent être modifiées à tout moment. Les utilisateurs seront informés des changements via l'application Discord.*
 
-## Droit d'auteur (Copyright)
-> Les images, codes, etc. Appartiens au développeur du bot. 
-> L'autorisation a un développeur, est nécessaire pour les utiliser.
+*Dernière modification le 16/08/2024*
 
-## Plus d'informations et de questions <a href="https://discord.gg/C9CCc2VpZK"> <img src="https://discordapp.com/api/guilds/1035589781163364502/widget.png?style=shield" alt="Support Serveur"></a>
-> Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des questions, veuillez rejoindre [`le serveur Support Officiel de Fox'y`](https://discord.gg/C9CCc2VpZK).
-> [`Cliquer ici si vous voulez inviter fox'y`](https://discord.com/oauth2/authorize?client_id=1035925300544016535&scope=bot+applications.commands&permissions=2113400319).
-> *Il se peut que cette page change à tout moment, les utilisateurs utilisant Fox'y seront avertis via l'application discord.
-Dernière modification le 28/12/2022*
-
-### Propriétaire.
-> Revolt & Api space.
+### Propriétaires
+> Revolt & Api Space
