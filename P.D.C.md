@@ -22,7 +22,7 @@
 > Pour inviter Fox'y sur votre serveur, [cliquez ici](https://discord.com/oauth2/authorize?client_id=1035925300544016535&scope=bot+applications.commands&permissions=2113400319).
 > *Veuillez noter que ces conditions peuvent être modifiées à tout moment. Les utilisateurs seront informés des changements via l'application Discord.*
 
-*Dernière modification le 16/08/2024*
-
 ### Propriétaires
 > Revolt & Api Space
+
+*Dernière modification le 16/08/2024*
