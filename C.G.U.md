@@ -1,5 +1,3 @@
-# ![](https://cdn.discordapp.com/emojis/1037295190978871336.webp?size=48&quality=lossless)〃Foxy | Conditions Générales d'Utilisation.
-
 ## Respect des Conditions d’utilisation de Discord. (ToS)
 > Nous nous engageons à ce que le bot respecte les [`ToS de discord`](https://discord.com/terms).
 > Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux être mis en œuvre.
